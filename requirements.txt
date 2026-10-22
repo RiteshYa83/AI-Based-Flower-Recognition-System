@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+scikit-image
+opencv-python-headless
+joblib
+matplotlib
+Flask
+# Optional, only for the higher-accuracy deep-learning features (--features mobilenet):
+# tensorflow
